@@ -1,0 +1,2 @@
+# ARTIFICAL-INTELLIGEN
+AI repository
